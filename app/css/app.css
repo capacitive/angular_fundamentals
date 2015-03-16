@@ -1,4 +1,9 @@
 /* app css stylesheet */
+body{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 .hoverwell:hover {
   background-color: #52575c;
   cursor: pointer;
@@ -27,4 +32,12 @@ select, textarea {
 .votingButton {
   padding-left:6px;
   cursor:pointer;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display:none;
+}
+
+.blue{
+    color:#7a8288;
 }

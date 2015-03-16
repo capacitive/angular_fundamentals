@@ -4,7 +4,7 @@ module.exports = function(config){
     basePath : '../',
 
     files : [
-      'app/lib/angular/angular.js',
+      '../app/lib/angular/angular.js',
       'app/lib/angular/angular-*.js',
       'test/lib/angular-mocks.js',
       'test/lib/sinon-1.10.2.js',
