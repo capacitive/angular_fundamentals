@@ -1,4 +1,4 @@
-{"name": "Angular Boot Camp",
+{           "name": "Angular Boot Camp",
             "id": 1,
             "date": "1/1/2013",
             "time": "10:30 am",
@@ -7,7 +7,7 @@
                 "city": "Mountain View",
                 "province": "CA"
             },
-            "imageUrl": "http://pascalprecht.github.com/slides/angularjs-insights/img/angularjs-logo.png",
+            "imageUrl": "img/coolangular.PNG",
             "sessions": [
                 {
 					"id": 1,
@@ -35,6 +35,15 @@
                     "level": "Intermediate",
                     "abstract": "Controllers are the beginning of everything Angular does.  Learn how to craft controllers that will win the respect of your friends and neighbors.",
                     "upVoteCount": 0
+                },
+                {
+                  "id": 4,
+                  "name": "test tools",
+                  "creatorName": "Bucky Smithers",
+                  "duration": 2,
+                  "level": "Basic",
+                  "abstract": "Intro to Angular test suites",
+                  "upVoteCount": 0
                 }
             ]
         }
